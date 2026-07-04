@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：kindfriend-0913
 更新时间：2026-07-05
 
@@ -40,6 +40,7 @@ Tuesday Quiz Show ：周二问答秀
 Blue Dragon Mascot：蓝龙吉祥物
 Magic Red Bunny Mascot：魔法红兔吉祥物
 Golden Flower Mascot  金花吉祥物
+Fox Counseling Office：狐狸咨询室
 The Fox Counseling Room：狐狸咨询室
 Moonlight Tattooist：月光纹身师
 Cheerful Theme Park：欢乐主题公园
@@ -116,6 +117,7 @@ Black Tortoise team 1：玄武1队
 Hyunmoo team 1：玄武1队
 Cheerful Research Institute：愉快研究所
 Sekwang Special Metropolitan City：世光特别都市
+Segwang City：世光市
 Sekwang Technical High School：世光工业高中
 Jisan Village：芝山村
 
