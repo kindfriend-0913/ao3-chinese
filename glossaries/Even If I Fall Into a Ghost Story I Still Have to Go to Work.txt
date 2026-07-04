@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：kindfriend-0913
 更新时间：2026-07-05
 
@@ -15,6 +15,7 @@ Park Minseong：朴敏成
 Go Yeongeun：高英恩
 Baek Saheon：白思宪
 Jang Heoun：张虚云
+Jang Heowoon：张虚云
 Kwak Jaekwang：郭济康
 Jin Nasol：陈娜率
 Lee Seonghae：李成海
@@ -35,8 +36,9 @@ Agent Hwagak：华角特工
 
 //黑暗探查实体怪谈
 Braun:布朗
-Braun's Late-Night Talk Show：布朗的深夜脱口秀 
+Braun's Late-Night Talk Show：布朗的深夜脱口秀
 Tuesday Quiz Show ：周二问答秀
+Tuesday Quiz Show Host：周二问答秀主持人
 Blue Dragon Mascot：蓝龙吉祥物
 Magic Red Bunny Mascot：魔法红兔吉祥物
 Golden Flower Mascot  金花吉祥物
@@ -89,6 +91,7 @@ Minseong：敏成
 Yeongeun：英恩
 Saheon：思宪
 Heoun：虚云
+Heowoon：虚云
 Jaekwan：在宽
 Hongrim：洪林
 Jaekwang：济康
