@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：kindfriend-0913
 更新时间：2026-07-05
 
@@ -48,8 +48,11 @@ Moonlight Tattooist：月光纹身师
 Cheerful Theme Park：欢乐主题公园
 Flower Golden Resort：黄金花卉度假村
 Looky Mart：诡运玛特
+LookyMart：诡运玛特
 Death Lane：死亡之路
 
+通用词条
+//用于翻译通用概念，此区域不区分大小写
 //主要出场人名-散 排序无意义
 Kim：金
 Lee：李
@@ -101,11 +104,9 @@ kangheon：康宪
 Yihak：伊鹤
 Yuwon：浏援
 Dallae：达莱
-
-通用词条
-// 用于翻译通用概念，此区域不区分大小写
 Dark Exploration Records：黑暗探索记录
 Supernatural Entity：超自然实体
+Daydream INC:白日梦股份有限公司
 Daydream：白日梦
 Research Team：研究组
 Field Exploration Teams：现场探查组
@@ -116,7 +117,9 @@ Supernatural Disaster Management Bureau：超自然灾害管理局
 Dispatch & Rescue Unit：出动救援组
 Black Tortoise：玄武
 Hyunmoo：玄武
+Hyeonmu：玄武
 Black Tortoise team 1：玄武1队
+Hyunmoo team 1：玄武1队
 Hyunmoo team 1：玄武1队
 Cheerful Research Institute：愉快研究所
 Sekwang Special Metropolitan City：世光特别都市
@@ -125,7 +128,7 @@ Sekwang Technical High School：世光工业高中
 Jisan Village：芝山村
 
 禁翻词条
-// 此区域区分大小，用于保持原文
+//此区域区分大小，用于保持原文
 J3
 K.LEE
 GDCG
