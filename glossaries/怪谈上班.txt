@@ -1,0 +1,127 @@
+版本号：1.0.0
+维护者：kindfriend-0913
+更新时间：2026-07-05
+
+//译名有参考wiki/一些老师的民间汉化/维护者的翻译习惯
+//如有错漏、订正、增删等需要更新的情况请联系邮箱：
+ki7resdpzzz@gmail.com
+
+词条 
+//主要出场人名-整 排序无意义 白日梦股份公司
+Kim Soleum：金索音
+Lee Jaheon：李子宪
+Eun Haje：殷河齐
+Park Minseong：朴敏成
+Go Yeongeun：高英恩
+Baek Saheon：白思宪
+Jang Heoun：张虚云
+Kwak Jaekwang：郭济康
+Jin Nasol：陈娜率
+Lee Seonghae：李成海
+Lee kangheon：李康宪
+Kang Yihak：姜伊鹤
+Ho Yuwon：护浏援
+Cheong Dallae：郑达莱
+
+//超自然灾害管理局 
+Agent Choi：崔特工
+Ryu Jaekwang：柳在宽
+Park Hongrim：朴洪林
+Agent Bronze：青铜特工
+Agent Grapes：葡萄特工
+Agent Haegeum：奚琴特工
+Agent Mint：薄荷特工
+Agent Hwagak：华角特工
+
+//黑暗探查实体怪谈
+Braun:布朗
+Braun's Late-Night Talk Show：布朗的深夜脱口秀 
+Tuesday Quiz Show ：周二问答秀
+Blue Dragon Mascot：蓝龙吉祥物
+Magic Red Bunny Mascot：魔法红兔吉祥物
+Golden Flower Mascot  金花吉祥物
+The Fox Counseling Room：狐狸咨询室
+Moonlight Tattooist：月光纹身师
+Cheerful Theme Park：欢乐主题公园
+Flower Golden Resort：黄金花卉度假村
+Looky Mart：诡运玛特
+Death Lane：死亡之路
+
+//主要出场人名-散 排序无意义
+Kim：金
+Lee：李
+Park：朴
+Baek：白
+Jang：张
+Eun：殷
+Kwak：郭
+Jin：陈
+Kang：姜
+Ho：护
+Cheong：郑
+Choi：崔
+Ryu：柳
+Roe Deer：狍子
+Viper：毒蛇
+Goat：山羊
+Goral：斑羚
+Falcon：游隼
+Dolphin：海豚
+Lizard：蜥蜴
+Badger：獾
+Bison：野牛
+Pony：小马
+Director ：理事
+Chief：组长
+Deputy：代理
+Supervisor：主任
+Agent：特工
+Bronze：青铜
+Grapes：葡萄
+Haegeum：海琴
+Mint：薄荷
+Hwagak：华角
+Soleum：索音
+Jaheon：子宪
+Haje：河齐
+Minseong：敏成
+Yeongeun：英恩
+Saheon：思宪
+Heoun：虚云
+Jaekwang：在宽
+Hongrim：洪林
+Jaekwang：济康
+Nasol：娜率
+Seonghae：成海
+kangheon：康宪
+Yihak：伊鹤
+Yuwon：浏援
+Dallae：达莱
+
+通用词条
+// 用于翻译通用概念，此区域不区分大小写
+Dark Exploration Records：黑暗探索记录
+Supernatural Entity：超自然实体
+Daydream：白日梦
+Research Team：研究组
+Field Exploration Teams：现场探查组
+Security Team：安保组
+Alien Shop：外星人商店
+Space Shopping Mall：太空购物中心
+Supernatural Disaster Management Bureau：超自然灾害管理局
+Dispatch & Rescue Unit：出动救援组
+Black Tortoise：玄武
+Hyunmoo：玄武
+Black Tortoise team 1：玄武1队
+Hyunmoo team 1：玄武1队
+Cheerful Research Institute：愉快研究所
+Sekwang Special Metropolitan City：世光特别都市
+Sekwang Technical High School：世光工业高中
+Jisan Village：芝山村
+
+禁翻词条
+// 此区域区分大小，用于保持原文
+J3
+K.LEE
+GDCG
+GSGW
