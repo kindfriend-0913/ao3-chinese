@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：kindfriend-0913
 更新时间：2026-07-05
 
@@ -25,7 +25,7 @@ Cheong Dallae：郑达莱
 
 //超自然灾害管理局 
 Agent Choi：崔特工
-Ryu Jaekwang：柳在宽
+Ryu Jaekwan：柳在宽
 Park Hongrim：朴洪林
 Agent Bronze：青铜特工
 Agent Grapes：葡萄特工
@@ -88,7 +88,7 @@ Minseong：敏成
 Yeongeun：英恩
 Saheon：思宪
 Heoun：虚云
-Jaekwang：在宽
+Jaekwan：在宽
 Hongrim：洪林
 Jaekwang：济康
 Nasol：娜率
